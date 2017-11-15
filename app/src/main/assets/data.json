@@ -1,0 +1,22 @@
+{"content":[
+	{"id":"0",
+	"address":"NIKE官方旗舰店",
+	"isSelected":"false",
+	"goodDetail":[{"id":"00","pic":"11","count":"1","name":"BB霜","price":"99","isEdit":"false","isSelected":"false"},
+				{"id":"01","pic":"11","count":"1","name":"男士洁面乳","price":"66","isEdit":"false","isSelected":"false"},
+				{"id":"02","pic":"11","count":"1","name":"眼线笔","price":"16","isEdit":"false","isSelected":"false"}]
+	},
+
+	{"id":"1",
+	"address":"天猫旗舰店",
+	"isSelected":"false",
+	"goodDetail":[{"id":"10","pic":"11","count":"1","name":"华为5x","price":"999","isEdit":"false","isSelected":"false"}]
+	},
+
+	{"id":"2",
+	"address":"京东旗舰店",
+	"isSelected":"false",
+	"goodDetail":[{"id":"20","pic":"11","count":"5","name":"小米6","price":"3","isEdit":"false","isSelected":"false"},
+				{"id":"21","pic":"11","count":"2","name":"iPad mini4","price":"2","isEdit":"false","isSelected":"false"}]
+	}
+]}
